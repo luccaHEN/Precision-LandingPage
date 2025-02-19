@@ -1,3 +1,3 @@
 # Landing Page - Precision
 
-- Consiste em uma landing page para promover o dosador de adubo Precision.
+- Consiste num projeto acadêmico com um cliente real para promover seu Dosador de Adubo Precision
