@@ -1,0 +1,31 @@
+.beneficios{
+    width: 100%;
+    gap: 25px;
+    padding: 25px;
+    height: fit-content;
+}
+
+.beneficios h2{
+    font-size: 36px;
+    padding-top: 120px;
+}
+
+
+@media screen and (max-width:1200px){
+    .beneficios{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .beneficios h2{
+        font-size: 32px;
+        padding-top: 0px;
+        margin-top: 40px;
+    }
+
+    .beneficios p {
+        font-size: 20px;
+    }
+    
+}

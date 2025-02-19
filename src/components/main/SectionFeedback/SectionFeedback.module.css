@@ -1,0 +1,25 @@
+.feedback{
+    height: 900px;
+    background-color: rgba(243,243,243,1);
+}
+
+.feedback h2{
+    padding-top: 130px;
+    font-size: 38px;
+}
+
+.feedback p .subtitulo-padrao{
+    font-size: 24px;
+}
+
+@media screen and (max-width: 1200px){
+    .feedback h2{
+        font-size: 32px;
+        padding-top: 60px;
+    }
+
+    .feedback p {
+        font-size: 20px;
+    }
+    
+}
